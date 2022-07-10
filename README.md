@@ -1,5 +1,6 @@
 ## Fusing Global and Local Features for Generalized AI-Synthesized Image Detection [[Paper Link](https://arxiv.org/pdf/2203.13964.pdf)] 
-###[Yan Ju](https://littlejuyan.github.io/), [Shan Jia](https://shanface33.github.io/), [Lipeng Ke](https://scholar.google.com/citations?hl=en&user=qzlM2bMAAAAJ&view_op=list_works&sortby=pubdate), [Hongfei Xue](http://havocfixer.github.io/), [Koki Nagano](https://luminohope.org/), and [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/). In [ICIP, 2022](https://cmsworkshops.com/ICIP2022/papers/accepted_papers.php).
+
+### [Yan Ju](https://littlejuyan.github.io/), [Shan Jia](https://shanface33.github.io/), [Lipeng Ke](https://scholar.google.com/citations?hl=en&user=qzlM2bMAAAAJ&view_op=list_works&sortby=pubdate), [Hongfei Xue](http://havocfixer.github.io/), [Koki Nagano](https://luminohope.org/), and [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/). In [ICIP, 2022](https://cmsworkshops.com/ICIP2022/papers/accepted_papers.php).
 
 
 ## 1. Setup
@@ -79,5 +80,5 @@ This repository borrows partially from [this work](https://github.com/peterwang5
 This work is supported by the US Defense Advanced Research Projects Agency (DARPA) Semantic Forensic (SemaFor) program. We thank SemaFor TA4 teams and previous works for providing datasets for our training and testing. 
 
 ## Citation
-If you find this useful for your research, please consider citing this bibtex. 
+If you find this useful for your research, please consider citing this [bibtex](https://github.com/littlejuyan/FusingGlobalandLocal/blob/main/bibtex.txt). 
 	
