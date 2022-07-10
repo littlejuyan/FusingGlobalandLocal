@@ -1,0 +1,6 @@
+@article{ju2022fusing,
+  title={Fusing Global and Local Features for Generalized AI-Synthesized Image Detection},
+  author={Ju, Yan and Jia, Shan and Ke, Lipeng and Xue, Hongfei and Nagano, Koki and Lyu, Siwei},
+  journal={arXiv preprint arXiv:2203.13964},
+  year={2022}
+}
